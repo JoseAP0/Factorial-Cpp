@@ -16,6 +16,7 @@ int main(){
     
     int param;
     
+    cout << "Insira o número desejado"<< endl;
     cin >> param;
     
     if (factorial(param) == 0){
